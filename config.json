@@ -1,8 +1,8 @@
 {
-    "ip": "katyty.aternos.me",
-    "port": "",
+    "ip": "rhtoprtpohp.aternos.me",
+    "port": "46093",
     "password": "",
-    "prefix": "",
+    "prefix": "!",
     "login-enabled": "false",
     "register-cmd": "/login kartikopp kartikopp",
     "login-cmd": "/login kartikopp",
